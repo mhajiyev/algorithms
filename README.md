@@ -13,7 +13,7 @@ Runtime : O(V^2) where V is the number of vertices in the graph
 Improved Kruskal's algorithm for finding minimum spanning tree
 Runtime : O(E*logE) where E is the number of edges in the graph
 
-#DNA Sequence Alignment Problem
+# DNA Sequence Alignment Problem
 *The solution employs dynamic programming approach
 *There is a user defined gap and mismatch penalty ; goal is to align two DNA strings with minimum penalty incurred
 *Runtime: O(ab) where a is the length of string1 and b is the length of string2 
