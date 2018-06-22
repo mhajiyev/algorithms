@@ -29,3 +29,5 @@ x,c,l,u are vectors of size n with rational entries
 b is a vector of size m with rational entries
 A is a constraint matrix of size (m,n)
 The algorithm computes x* where x*<x for any basic solution x.
+
+# Kosaraju's algorithm for finding the number of strongly connected components in a directed graph
