@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mustafahajiyev/CLionProjects/CS341_Kosaraju/a4q1.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
