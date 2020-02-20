@@ -31,3 +31,8 @@ A is a constraint matrix of size (m,n)
 The algorithm computes x* where x*<x for any basic solution x.
 
 # Kosaraju's algorithm for finding the number of strongly connected components in a directed graph
+
+
+# Decision Tree learning algorithm with a feature selection method based on maximizing information gain(entropy) designed to classify Reddit posts by their category/topic
+
+
